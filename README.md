@@ -1,4 +1,4 @@
-# ClothingStore Project
+# Clothing Store Project
 
 eCommerce platform built with the MERN stack & Redux.
 
