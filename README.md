@@ -7,6 +7,7 @@ eCommerce platform built with the MERN stack & Redux.
 - Product reviews and ratings
 - Product search by live loction weather and temperature
 - Product search feature
+- Authorization
 - User profile with orders
 - Admin product management
 - Admin user management
